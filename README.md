@@ -9,3 +9,5 @@ I have made some changes, will this work?
 Testing a pull request.
 
 How about this one?
+
+Testing a merge conflict.
