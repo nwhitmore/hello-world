@@ -11,3 +11,5 @@ Testing a pull request.
 How about this one?
 
 Testing a merge conflict.
+
+Looks like it works!
